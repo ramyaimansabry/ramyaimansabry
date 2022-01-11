@@ -13,7 +13,7 @@
 [<img align="left" alt="RxSwift" width="30px" src="Images/RxSwift-Logo.png" />][rxSwift_website]
 [<img align="left" alt="Kotlin" width="30px" src="Images/Kotlin-Logo.png" />][kotlin_website]
 [<img align="left" alt="Xcode" width="30px" src="Images/Xcode-Logo.png" />][xcode_website]
-[<img align="left" alt="Visual Studio Code" width="30px" src="Images/Visual-Studio-Code-Logo.svg" />]!visualStudioCode_website]
+[<img align="left" alt="Visual Studio Code" width="30px" src="Images/Visual-Studio-Code-Logo.svg" />][visualStudioCode_website]
 [<img align="left" alt="Android Studio" width="30px" src="Images/Android-Studio-Logo.png" />][androidStudio_website]
 [<img align="left" alt="Firebase" width="30px" src="Images/Firebase-Logo.png" />][firebase_website]
 [<img align="left" alt="Swagger" width="30px" src="Images/Swagger-Logo.png" />][swagger_website]
