@@ -2,6 +2,10 @@
 
 # Hi there, I'm Ramy Sabry 👋 
  iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>
+
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](linkedin_website)
+[![Facebook URL](https://img.shields.io/static/v1?color=blue&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](facebook_website)
+
 - I love developing iOS apps, also i am learning android development using kotlin & java.
 - Ask me about: OOP, Swift, iOS, Cocoapods, Frameworks, RESTful APIs, Architecture, Design Patterns, Testing, and CI/CD.
 
@@ -50,7 +54,6 @@
 
 [linkedin_website]: https://www.linkedin.com/in/ramy-sabry-153770117/
 [facebook_website]: https://www.facebook.com/profile.php?id=100008612291509
-[gmail_website]: ramysabry1996@gmail.com
 
 [swift_website]: https://developer.apple.com/swift/
 [swiftui_website]: https://developer.apple.com/xcode/swiftui/
