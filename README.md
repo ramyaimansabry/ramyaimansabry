@@ -1,19 +1,14 @@
-### Hi there, I'm Ramy Sabry 👋 
-
-#####iOS Software Enginner at <a href="https://atos.net/en/">Atos </a>
-
-- 🌱 I’m currently exploring new things in technology. 🤣
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 Goals: Contribute more to Open Source projects.
-- ⚡ I love to play cricket, badminton and love cooking.
-
+# Hi there, I'm Ramy Sabry 👋 
+iOS Software Enginner at <a href="https://atos.net/en/">Atos </a>
+- I love developing iOS apps, also i am learning android development using kotlin & java.
+- Ask me about: OOP, Swift, iOS, Cocoapods, Frameworks, RESTful APIs, Architecture, Design Patterns, Testing, and CI/CD.
 ### Connect with me
 
-[<img align="left" alt="Facebook" width="30px" height="30px" src="Images/Facebook-Logo.png" />][facebook_website]
+[<img align="left" alt="Facebook" width="35px" height="35px" src="Images/Facebook-Logo.png" />][facebook_website]
 
-[<img align="left" alt="LinkedIn" width="30px" height="30px" src="Images/Linkedin-Logo.png" />][linkedin_website]
+[<img align="left" alt="LinkedIn" width="35px" height="35px" src="Images/Linkedin-Logo.png" />][linkedin_website]
 
-[<img align="left" alt="Gmail" width="30px" height="30px" src="Images/Gmail-Logo.png" />][gmail_website]
+[<img align="left" alt="Gmail" width="35px" height="35px" src="Images/Gmail-Logo.png" />][gmail_website]
 <br />
 <br />
 
@@ -35,8 +30,6 @@
 [<img align="left" alt="Android Studio" width="30px" src="Images/Android-Studio-Logo.png" />][]
 [<img align="left" alt="Adobe XD" width="30px" src="Images/Adobe-XD-Logo.png" />][]
 
-
-<br />
 <br />
 
 </details>
