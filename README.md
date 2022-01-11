@@ -19,7 +19,7 @@ iOS Software Enginner at <a href="https://atos.net/en/">Atos </a>
 [<img align="left" alt="Firebase" width="30px" src="Images/Firebase-Logo.png" />][linkedin_website]
 [<img align="left" alt="Swagger" width="30px" src="Images/Swagger-Logo.png" />][linkedin_website]
 
-[<img align="left" alt="Adobe XD" width="80px" height="30px" src="Images/Adobe-XD-Logo.png" />][linkedin_website]
+[<img align="left" alt="Adobe XD" width="30px" src="Images/Adobe-XD-Logo.png" />][linkedin_website]
 [<img align="left" alt="Figma" width="30px" src="Images/Figma-Logo.png" />][linkedin_website]
 [<img align="left" alt="Zeplin" width="30px" src="Images/Zeplin-Logo.svg" />][linkedin_website]
 
