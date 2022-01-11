@@ -9,7 +9,8 @@ iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>
 ### Technologies & Tools:
 
 <br />
-<img alt="Github Pages" width="20px" height="20px" src="Images/Swift-Logo.png" />![LinkedIn Ramy]
+
+<img alt="Github Pages" width="20px" height="20px" src="Images/Swift-Logo.png" />[linkedin_website]
 
 <br />
 
