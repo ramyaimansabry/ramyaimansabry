@@ -32,7 +32,11 @@
 [<img align="left" alt="Diawi" width="30px" src="Images/Diawi-Logo.svg" />][linkedin_website]
 [<img align="left" alt="Firebase App Distribution" width="30px" src="Images/Firebase-App-Distribution-Logo.png" />][linkedin_website]
 [<img align="left" alt="TestFlight" width="30px" src="Images/TestFlight-Logo.png" />][linkedin_website]
-<br /> <br />
+
+<br /> 
+<br />
+<br />
+
 ### Connect with me
 
 [<img align="left" alt="Facebook" width="35px" height="35px" src="Images/Facebook-Logo.png" />][facebook_website]
