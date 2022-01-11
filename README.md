@@ -25,10 +25,14 @@ iOS Software Enginner at <a href="https://atos.net/en/">Atos </a>
 
 <br />
 
+<br />
+
 ### CI/CD:
 [<img align="left" alt="Github Actions" width="30px" src="Images/Github-Actions-Logo.png" />][linkedin_website]
 [<img align="left" alt="Fastlane" width="30px" src="Images/Fastlane-Logo.png" />][linkedin_website]
 [<img align="left" alt="Jenkins" width="30px" src="Images/Jenkins-Logo.png" />][linkedin_website]
+
+<br />
 
 <br />
 
@@ -40,15 +44,20 @@ iOS Software Enginner at <a href="https://atos.net/en/">Atos </a>
 
 <br />
 
-### Connect with me
+<br />
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
+### Connect with me
 
 [<img align="left" alt="Facebook" width="35px" height="35px" src="Images/Facebook-Logo.png" />][facebook_website]
 
 [<img align="left" alt="LinkedIn" width="35px" height="35px" src="Images/Linkedin-Logo.png" />][linkedin_website]
 
 [<img align="left" alt="Gmail" width="35px" height="35px" src="Images/Gmail-Logo.png" />][gmail_website]
+
+<br />
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
+
 
 <br />
 
