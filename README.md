@@ -14,6 +14,7 @@ iOS Software Enginner at <a href="https://atos.net/en/">Atos </a>
 
 ### Technologies & Tools:
 
+[<img align="left" alt="Firebase" width="30px" src="Images/Figma-Logo.png" />][]
 [<img align="left" alt="Swift" width="30px" src="Images/Swift-Logo.png" />][]
 [<img align="left" alt="Zeplin" width="30px" src="Images/Zeplin-Logo.svg" />][]
 [<img align="left" alt="Visual Studio Code" width="30px" src="Images/Visual-Studio-Code-Logo.svg" />][]
