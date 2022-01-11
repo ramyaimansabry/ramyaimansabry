@@ -8,33 +8,33 @@
 <br /> <br /> 
 ### Technologies & Tools:
 
-[<img align="left" alt="Swift" width="30px" src="Images/Swift-Logo.png" />][linkedin_website]
-[<img align="left" alt="SwiftUI" width="30px" src="Images/SwiftUI-Logo.jpg" />][linkedin_website]
-[<img align="left" alt="RxSwift" width="30px" src="Images/RxSwift-Logo.png" />][linkedin_website]
+[<img align="left" alt="Swift" width="30px" src="Images/Swift-Logo.png" />][https://developer.apple.com/swift/]
+[<img align="left" alt="SwiftUI" width="30px" src="Images/SwiftUI-Logo.jpg" />][https://developer.apple.com/xcode/swiftui/]
+[<img align="left" alt="RxSwift" width="30px" src="Images/RxSwift-Logo.png" />][https://github.com/ReactiveX/RxSwift]
 
-[<img align="left" alt="Kotlin" width="30px" src="Images/Kotlin-Logo.png" />][linkedin_website]
+[<img align="left" alt="Kotlin" width="30px" src="Images/Kotlin-Logo.png" />][https://developer.android.com/kotlin/first]
 
-[<img align="left" alt="Xcode" width="30px" src="Images/Xcode-Logo.png" />][linkedin_website]
-[<img align="left" alt="Visual Studio Code" width="30px" src="Images/Visual-Studio-Code-Logo.svg" />][linkedin_website]
-[<img align="left" alt="Android Studio" width="30px" src="Images/Android-Studio-Logo.png" />][linkedin_website]
+[<img align="left" alt="Xcode" width="30px" src="Images/Xcode-Logo.png" />][https://developer.apple.com/xcode/]
+[<img align="left" alt="Visual Studio Code" width="30px" src="Images/Visual-Studio-Code-Logo.svg" />][https://code.visualstudio.com/]
+[<img align="left" alt="Android Studio" width="30px" src="Images/Android-Studio-Logo.png" />][https://developer.android.com/studio]
 
-[<img align="left" alt="Firebase" width="30px" src="Images/Firebase-Logo.png" />][linkedin_website]
-[<img align="left" alt="Swagger" width="30px" src="Images/Swagger-Logo.png" />][linkedin_website]
+[<img align="left" alt="Firebase" width="30px" src="Images/Firebase-Logo.png" />][https://firebase.google.com/]
+[<img align="left" alt="Swagger" width="30px" src="Images/Swagger-Logo.png" />][https://swagger.io/]
 
-[<img align="left" alt="Adobe XD" width="30px" src="Images/Adobe-XD-Logo.png" />][linkedin_website]
-[<img align="left" alt="Figma" width="30px" src="Images/Figma-Logo.png" />][linkedin_website]
-[<img align="left" alt="Zeplin" width="30px" src="Images/Zeplin-Logo.svg" />][linkedin_website]
+[<img align="left" alt="Adobe XD" width="30px" src="Images/Adobe-XD-Logo.png" />][https://www.adobe.com/mena_en/products/xd.html]
+[<img align="left" alt="Figma" width="30px" src="Images/Figma-Logo.png" />][https://www.figma.com/]
+[<img align="left" alt="Zeplin" width="30px" src="Images/Zeplin-Logo.svg" />][https://zeplin.io/]
 
 <br /> <br /> 
 
-[<img align="left" alt="Github Actions" width="30px" src="Images/Github-Actions-Logo.png" />][linkedin_website]
-[<img align="left" alt="Fastlane" width="30px" src="Images/Fastlane-Logo.png" />][linkedin_website]
-[<img align="left" alt="Jenkins" width="30px" src="Images/Jenkins-Logo.png" />][linkedin_website]
+[<img align="left" alt="Github Actions" width="30px" src="Images/Github-Actions-Logo.png" />][https://github.com/features/actions]
+[<img align="left" alt="Fastlane" width="30px" src="Images/Fastlane-Logo.png" />][https://fastlane.tools/]
+[<img align="left" alt="Jenkins" width="30px" src="Images/Jenkins-Logo.png" />][https://www.jenkins.io/]
 
-[<img align="left" alt="App Store" width="30px" src="Images/App-Store-Logo.png" />][linkedin_website]
-[<img align="left" alt="Diawi" width="30px" src="Images/Diawi-Logo.svg" />][linkedin_website]
-[<img align="left" alt="Firebase App Distribution" width="30px" src="Images/Firebase-App-Distribution-Logo.png" />][linkedin_website]
-[<img align="left" alt="TestFlight" width="30px" src="Images/TestFlight-Logo.png" />][linkedin_website]
+[<img align="left" alt="App Store" width="30px" src="Images/App-Store-Logo.png" />][https://www.apple.com/eg/app-store/]
+[<img align="left" alt="Diawi" width="30px" src="Images/Diawi-Logo.svg" />][https://www.diawi.com/]
+[<img align="left" alt="Firebase App Distribution" width="30px" src="Images/Firebase-App-Distribution-Logo.png" />][https://firebase.google.com/docs/app-distribution]
+[<img align="left" alt="TestFlight" width="30px" src="Images/TestFlight-Logo.png" />][https://developer.apple.com/testflight/]
 
 <br /> 
 <br />
