@@ -56,13 +56,13 @@ iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>
 
 ### Connect with me
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
+
 [<img align="left" alt="Facebook" width="35px" height="35px" src="Images/Facebook-Logo.png" />][facebook_website]
 
 [<img align="left" alt="LinkedIn" width="35px" height="35px" src="Images/Linkedin-Logo.png" />][linkedin_website]
 
 [<img align="left" alt="Gmail" width="35px" height="35px" src="Images/Gmail-Logo.png" />][gmail_website] <br /> <br />
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
 
 ⭐️ Thank you ⭐️
 
