@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="190">
 
 # Hi there, I'm Ramy Sabry 👋 
  iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>
@@ -6,7 +6,7 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ramy-sabry-153770117/)
 [![Facebook URL](https://img.shields.io/static/v1?color=blue&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/profile.php?id=100008612291509)
 
-
+<br /> 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -14,7 +14,7 @@
 - 💬 **Ask me about**: OOP, Swift, iOS, Cocoapods, Frameworks, RESTful APIs, Architecture, Design Patterns, Testing, and CI/CD.
 - 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
 
-<br /> <br /> 
+<br />
 ### Technologies & Tools:
 
 [<img align="left" alt="Swift" width="30px" src="Images/Swift-Logo.png" />][swift_website]
@@ -41,7 +41,6 @@
 [<img align="left" alt="TestFlight" width="30px" src="Images/TestFlight-Logo.png" />][testflight_website]
 
 <br /> 
-<br />
 <br />
 
 <hr/>
