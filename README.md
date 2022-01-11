@@ -31,9 +31,13 @@ iOS Software Enginner at <a href="https://atos.net/en/">Atos </a>
 [<img align="left" alt="Firebase" width="30px" src="Images/Firebase-Logo.png" />][]
 [<img align="left" alt="Fastlane" width="30px" src="Images/Fastlane-Logo.png" />][]
 [<img align="left" alt="Android Studio" width="30px" src="Images/Android-Studio-Logo.png" />][]
-[<img align="left" alt="Adobe XD" width="30px" src="Images/Adobe-XD-Logo.png" />][]
+[<img align="left" alt="Adobe XD" width="30px" src="Images/Adobe-XD-Logo.png" />]
 
-<br />
+<hr/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
+
+⭐️ Thank you ⭐️
 
 </details>
 
