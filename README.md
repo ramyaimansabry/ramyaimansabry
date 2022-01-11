@@ -1,8 +1,7 @@
-# Hi there, I'm Ramy Sabry 👋 
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>
+# Hi there, I'm Ramy Sabry 👋 
+## iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>
 - I love developing iOS apps, also i am learning android development using kotlin & java.
 - Ask me about: OOP, Swift, iOS, Cocoapods, Frameworks, RESTful APIs, Architecture, Design Patterns, Testing, and CI/CD.
 
@@ -27,30 +26,17 @@ iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>
 [<img align="left" alt="Figma" width="30px" src="Images/Figma-Logo.png" />][linkedin_website]
 [<img align="left" alt="Zeplin" width="30px" src="Images/Zeplin-Logo.svg" />][linkedin_website]
 
-<br />
-
-<br />
-
-### CI/CD:
 [<img align="left" alt="Github Actions" width="30px" src="Images/Github-Actions-Logo.png" />][linkedin_website]
 [<img align="left" alt="Fastlane" width="30px" src="Images/Fastlane-Logo.png" />][linkedin_website]
 [<img align="left" alt="Jenkins" width="30px" src="Images/Jenkins-Logo.png" />][linkedin_website]
 
-<br />
-
-<br />
-
-### App Distribution:
 [<img align="left" alt="App Store" width="30px" src="Images/App-Store-Logo.png" />][linkedin_website]
 [<img align="left" alt="Diawi" width="30px" src="Images/Diawi-Logo.svg" />][linkedin_website]
 [<img align="left" alt="Firebase App Distribution" width="30px" src="Images/Firebase-App-Distribution-Logo.png" />][linkedin_website]
 [<img align="left" alt="TestFlight" width="30px" src="Images/TestFlight-Logo.png" />][linkedin_website]
 
 <br />
-
 <br />
-
-
 
 <hr/>
 
