@@ -4,9 +4,16 @@ iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>
 - Ask me about: OOP, Swift, iOS, Cocoapods, Frameworks, RESTful APIs, Architecture, Design Patterns, Testing, and CI/CD.
 
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 ### Technologies & Tools:
 
-<img alt="Github Pages" width="20px" height="20px" src="Images/Swift-Logo.png" />![linkedin_website]
+<br />
+<img alt="Github Pages" width="20px" height="20px" src="Images/Swift-Logo.png" />![LinkedIn Ramy]
+
+<br />
+
+<br />
 
 [<img align="left" alt="Swift" width="30px" src="Images/Swift-Logo.png" />][linkedin_website]
 [<img align="left" alt="SwiftUI" width="30px" src="Images/SwiftUI-Logo.jpg" />][linkedin_website]
