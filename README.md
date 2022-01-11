@@ -19,23 +19,19 @@
 [<img align="left" alt="Android Studio" width="30px" src="Images/Android-Studio-Logo.png" />][linkedin_website]
 
 [<img align="left" alt="Firebase" width="30px" src="Images/Firebase-Logo.png" />][linkedin_website]
-
-<br /> <br /> 
-
 [<img align="left" alt="Swagger" width="30px" src="Images/Swagger-Logo.png" />][linkedin_website]
 
 [<img align="left" alt="Adobe XD" width="30px" src="Images/Adobe-XD-Logo.png" />][linkedin_website]
 [<img align="left" alt="Figma" width="30px" src="Images/Figma-Logo.png" />][linkedin_website]
 [<img align="left" alt="Zeplin" width="30px" src="Images/Zeplin-Logo.svg" />][linkedin_website]
 
+<br /> <br /> 
+
 [<img align="left" alt="Github Actions" width="30px" src="Images/Github-Actions-Logo.png" />][linkedin_website]
 [<img align="left" alt="Fastlane" width="30px" src="Images/Fastlane-Logo.png" />][linkedin_website]
 [<img align="left" alt="Jenkins" width="30px" src="Images/Jenkins-Logo.png" />][linkedin_website]
 
 [<img align="left" alt="App Store" width="30px" src="Images/App-Store-Logo.png" />][linkedin_website]
-
-<br /> <br /> 
-
 [<img align="left" alt="Diawi" width="30px" src="Images/Diawi-Logo.svg" />][linkedin_website]
 [<img align="left" alt="Firebase App Distribution" width="30px" src="Images/Firebase-App-Distribution-Logo.png" />][linkedin_website]
 [<img align="left" alt="TestFlight" width="30px" src="Images/TestFlight-Logo.png" />][linkedin_website]
