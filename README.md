@@ -3,7 +3,7 @@
 # Hi there, I'm Ramy Sabry 👋 
  iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>
 
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](linkedin_website)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ramy-sabry-153770117/)
 [![Facebook URL](https://img.shields.io/static/v1?color=blue&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](facebook_website)
 
 - I love developing iOS apps, also i am learning android development using kotlin & java.
