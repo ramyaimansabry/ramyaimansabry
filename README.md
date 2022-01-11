@@ -18,7 +18,7 @@
 [<img align="left" alt="Firebase" width="30px" src="Images/Firebase-Logo.png" />][firebase_website]
 [<img align="left" alt="Swagger" width="30px" src="Images/Swagger-Logo.png" />][swagger_website]
 [<img align="left" alt="Adobe XD" width="30px" src="Images/Adobe-XD-Logo.png" />][adobeXd_website]
-[<img align="left" alt="Figma" width="30px" src="Images/Figma-Logo.png" />][figma_website]
+[<img align="left" alt="Figma" width="30px" height="30px" src="Images/Figma-Logo.png" />][figma_website]
 [<img align="left" alt="Zeplin" width="30px" src="Images/Zeplin-Logo.svg" />][zeplin_website]
 
 <br /> <br /> 
