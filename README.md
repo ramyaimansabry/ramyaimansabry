@@ -10,7 +10,7 @@ iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>
 
 <br />
 
-<img alt="Github Pages" width="20px" height="20px" src="Images/Swift-Logo.png" />[linkedin_website]
+<img alt="Github Pages" width="20px" height="20px" src="Images/Swift-Logo.png" />[  Swift]
 
 <br />
 
