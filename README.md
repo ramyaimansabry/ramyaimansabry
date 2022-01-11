@@ -45,10 +45,10 @@ iOS Software Enginner at <a href="https://atos.net/en/">Atos </a>
 <br />
 
 ### App Distribution:
-[<img align="left" alt="App Store" width="30px" src="App-Store-Logo.png" />][linkedin_website]
-[<img align="left" alt="Diawi" width="30px" src="Diawi-Logo.svg" />][linkedin_website]
-[<img align="left" alt="Firebase App Distribution" width="30px" src="Firebase-App-Distribution-Logo.png" />][linkedin_website]
-[<img align="left" alt="TestFlight" width="30px" src="TestFlight-Logo.png" />][linkedin_website]
+[<img align="left" alt="App Store" width="30px" src="Images/App-Store-Logo.png" />][linkedin_website]
+[<img align="left" alt="Diawi" width="30px" src="Images/Diawi-Logo.svg" />][linkedin_website]
+[<img align="left" alt="Firebase App Distribution" width="30px" src="Images/Firebase-App-Distribution-Logo.png" />][linkedin_website]
+[<img align="left" alt="TestFlight" width="30px" src="Images/TestFlight-Logo.png" />][linkedin_website]
 
 <br />
 
