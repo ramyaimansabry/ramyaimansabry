@@ -1,18 +1,12 @@
 # Hi there, I'm Ramy Sabry 👋 
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>
 - I love developing iOS apps, also i am learning android development using kotlin & java.
 - Ask me about: OOP, Swift, iOS, Cocoapods, Frameworks, RESTful APIs, Architecture, Design Patterns, Testing, and CI/CD.
 
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
 ### Technologies & Tools:
-
-<br />
-
-<img alt="Github Pages" width="20px" height="20px" src="Images/Swift-Logo.png" />[  Swift]
-
-<br />
 
 <br />
 
@@ -66,13 +60,11 @@ iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>
 
 <br />
 
+<hr/>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
 
-
-<br />
-
 ⭐️ Thank you ⭐️
-
 
 
 </details>
