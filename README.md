@@ -54,6 +54,8 @@ iOS Software Enginner at <a href="https://atos.net/en/">Atos </a>
 
 [<img align="left" alt="Gmail" width="35px" height="35px" src="Images/Gmail-Logo.png" />][gmail_website]
 
+<br />
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
 
 
