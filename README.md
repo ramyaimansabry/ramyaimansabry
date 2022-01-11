@@ -15,10 +15,10 @@
 [<img align="left" alt="Xcode" width="30px" src="Images/Xcode-Logo.png" />][xcode_website]
 [<img align="left" alt="Visual Studio Code" width="30px" src="Images/Visual-Studio-Code-Logo.svg" />][visualStudioCode_website]
 [<img align="left" alt="Android Studio" width="30px" src="Images/Android-Studio-Logo.png" />][androidStudio_website]
-[<img align="left" alt="Firebase" width="30px" src="Images/Firebase-Logo.png" />][firebase_website]
+[<img align="left" alt="Firebase" width="25px" src="Images/Firebase-Logo.png" />][firebase_website]
 [<img align="left" alt="Swagger" width="30px" src="Images/Swagger-Logo.png" />][swagger_website]
 [<img align="left" alt="Adobe XD" width="30px" src="Images/Adobe-XD-Logo.png" />][adobeXd_website]
-[<img align="left" alt="Figma" width="30px" height="30px" src="Images/Figma-Logo.png" />][figma_website]
+[<img align="left" alt="Figma" width="25px" src="Images/Figma-Logo.png" />][figma_website]
 [<img align="left" alt="Zeplin" width="30px" src="Images/Zeplin-Logo.svg" />][zeplin_website]
 
 <br /> <br /> 
