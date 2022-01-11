@@ -29,9 +29,6 @@ iOS Software Enginner at <a href="https://atos.net/en/">Atos </a>
 [<img align="left" alt="RxSwift" width="30px" src="Images/RxSwift-Logo.png" />][linkedin_website]
 [<img align="left" alt="Kotlin" width="30px" src="Images/Kotlin-Logo.png" />][linkedin_website]
 [<img align="left" alt="Jenkins" width="30px" src="Images/Jenkins-Logo.png" />][linkedin_website]
-
-<br />
-
 [<img align="left" alt="Github Actions" width="30px" src="Images/Github-Actions-Logo.png" />][linkedin_website]
 [<img align="left" alt="Firebase" width="30px" src="Images/Firebase-Logo.png" />][linkedin_website]
 [<img align="left" alt="Fastlane" width="30px" src="Images/Fastlane-Logo.png" />][linkedin_website]
