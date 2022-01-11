@@ -33,12 +33,17 @@ iOS Software Enginner at <a href="https://atos.net/en/">Atos </a>
 
 <br />
 
+<br />
+
 ### CI/CD:
 [<img align="left" alt="Github Actions" width="30px" src="Images/Github-Actions-Logo.png" />][linkedin_website]
 [<img align="left" alt="Fastlane" width="30px" src="Images/Fastlane-Logo.png" />][linkedin_website]
 [<img align="left" alt="Jenkins" width="30px" src="Images/Jenkins-Logo.png" />][linkedin_website]
 
 <br />
+
+<br />
+
 ### App Distribution:
 [<img align="left" alt="App Store" width="30px" src="App-Store-Logo.png" />][linkedin_website]
 [<img align="left" alt="Diawi" width="30px" src="Diawi-Logo.svg" />][linkedin_website]
@@ -47,7 +52,7 @@ iOS Software Enginner at <a href="https://atos.net/en/">Atos </a>
 
 <br />
 
-<hr/>
+<br />
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
 
