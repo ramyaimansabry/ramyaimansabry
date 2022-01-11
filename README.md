@@ -9,11 +9,11 @@
 
 ### Connect with me
 
-[<img align="left" alt="Facebook" src="Images/Facebook-Logo.png" />][facebook_website]
+[<img align="left" alt="Facebook" width="50px" height="50px" src="Images/Facebook-Logo.png" />][facebook_website]
 
-[<img align="left" alt="LinkedIn" src="Images/Linkedin-Logo.png" />][linkedin_website]
+[<img align="left" alt="LinkedIn" width="50px" height="50px src="Images/Linkedin-Logo.png" />][linkedin_website]
 
-[<img align="left" alt="Gmail" src="Images/Gmail-Logo.png" />][gmail_website]
+[<img align="left" alt="Gmail" width="50px" height="50px src="Images/Gmail-Logo.png" />][gmail_website]
 <br />
 <br />
 
