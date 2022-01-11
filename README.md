@@ -1,14 +1,12 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 # Hi there, I'm Ramy Sabry 👋 
-## iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>
+ iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>
 - I love developing iOS apps, also i am learning android development using kotlin & java.
 - Ask me about: OOP, Swift, iOS, Cocoapods, Frameworks, RESTful APIs, Architecture, Design Patterns, Testing, and CI/CD.
 
+<br /> <br /> 
 ### Technologies & Tools:
-
-<br />
-
 [<img align="left" alt="Swift" width="30px" src="Images/Swift-Logo.png" />][linkedin_website]
 [<img align="left" alt="SwiftUI" width="30px" src="Images/SwiftUI-Logo.jpg" />][linkedin_website]
 [<img align="left" alt="RxSwift" width="30px" src="Images/RxSwift-Logo.png" />][linkedin_website]
@@ -34,18 +32,11 @@
 [<img align="left" alt="Diawi" width="30px" src="Images/Diawi-Logo.svg" />][linkedin_website]
 [<img align="left" alt="Firebase App Distribution" width="30px" src="Images/Firebase-App-Distribution-Logo.png" />][linkedin_website]
 [<img align="left" alt="TestFlight" width="30px" src="Images/TestFlight-Logo.png" />][linkedin_website]
-
-<br />
-<br />
-
-<hr/>
-
+<br /> <br />
 ### Connect with me
 
 [<img align="left" alt="Facebook" width="35px" height="35px" src="Images/Facebook-Logo.png" />][facebook_website]
-
 [<img align="left" alt="LinkedIn" width="35px" height="35px" src="Images/Linkedin-Logo.png" />][linkedin_website]
-
 [<img align="left" alt="Gmail" width="35px" height="35px" src="Images/Gmail-Logo.png" />][gmail_website] <br /> <br />
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
