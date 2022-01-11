@@ -6,8 +6,13 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ramy-sabry-153770117/)
 [![Facebook URL](https://img.shields.io/static/v1?color=blue&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/profile.php?id=100008612291509)
 
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 - I love developing iOS apps, also i am learning android development using kotlin & java.
-- Ask me about: OOP, Swift, iOS, Cocoapods, Frameworks, RESTful APIs, Architecture, Design Patterns, Testing, and CI/CD.
+- 💬 **Ask me about**: OOP, Swift, iOS, Cocoapods, Frameworks, RESTful APIs, Architecture, Design Patterns, Testing, and CI/CD.
+- 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
 
 <br /> <br /> 
 ### Technologies & Tools:
@@ -38,7 +43,11 @@
 <br /> 
 <br />
 <br />
-<br />
+
+<hr/>
+
+[<img align="left" alt="Facebook" width="35px" height="35px" src="Images/Facebook-Logo.png" />][facebook_website]
+[<img align="left" alt="LinkedIn" width="35px" height="35px" src="Images/Linkedin-Logo.png" />][linkedin_website] <br /> <br />
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
 
