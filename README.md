@@ -4,6 +4,10 @@
 </p>
 <hr>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hi+I'm+Ramy+Sabry+👋;I'm+a+iOS+Engineer...;)](https://git.io/typing-svg)
+
+<h1 align="center">Hi 👋, I'm Omar Elsherif</h1>
+
 # Hi there, I'm Ramy Sabry 👋 
  iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>
 
