@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-<a href="">[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ramy-sabry-153770117/)</a>
+[<a href="">![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)</a>](https://www.linkedin.com/in/ramy-sabry-153770117/)
 
 </div>
 
