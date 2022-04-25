@@ -4,9 +4,8 @@
 </p>
 <hr>
 
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hi+I'm+Ramy+Sabry+👋;An+iOS+Software+Engineer...;)](https://git.io/typing-svg)
-</p>
+[![Typing SVG](align:center&https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hi+I'm+Ramy+Sabry+👋;An+iOS+Software+Engineer...;)](https://git.io/typing-svg)
+
 
 <p align="center">
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ramy-sabry-153770117/)
