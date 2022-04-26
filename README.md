@@ -23,7 +23,7 @@
 
 **I speak Swift, and technology enthusiast. I Love developing mobile apps, especially the iOS**
 
-- I have 3 years of experience.
+- I have 3 years of experience, especially in [FinTech - E-Commerce].
 - 🔭 I am Currently working on digital banking system at <a href="https://atos.net/en/">Atos </a> with the latest technologies [SwiftUI - Combine - Clean Archtecture].
 - 🌱 Also wokring on some side projects with different technologies [UIKit - SwiftUI - RXSwift - Combine].
 - 💬 **Ask me about**: OOP, Swift, iOS, Cocoapods, Frameworks, RESTful APIs, Architecture, Design Patterns, Testing, and CI/CD.
