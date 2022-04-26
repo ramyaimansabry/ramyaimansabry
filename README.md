@@ -10,9 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hi+I'm+Ramy+Sabry+👋;An+iOS+Software+Engineer...;)](https://git.io/typing-svg)
 
-**iOS Software Engineer at <a href="https://atos.net/en/">Atos </a> with 3 years of experience.**
-
-<h3 align="center">iOS Software Engineer at <a href="https://atos.net/en/">Atos </a> with 3 years of experience.</h3>
+<h3 align="center">iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>.</h3>
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ramy-sabry-153770117/)
 [![Facebook URL](https://img.shields.io/static/v1?color=blue&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/profile.php?id=100008612291509)
