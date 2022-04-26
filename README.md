@@ -18,10 +18,12 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  About me...
 
-**I am a Senior iOS Software Engineer at <a href="https://atos.net/en/">Atos </a> with 3 years of experience.**
+**I am a iOS Software Engineer at <a href="https://atos.net/en/">Atos </a> with 3 years of experience.**
 
 **I speak Swift, iOS Framework Developer, and technology enthusiast.**
+
 **I love developing mobile apps specially iOS.**
+
 **I love sharing my knowledge and experience, and sharing PoCs & problems as code.**
 
 - 🔭 Currently working on digital banking system at <a href="https://atos.net/en/">Atos </a> with the latest technologies [SwiftUI - Combine - Clean Archtecture].
