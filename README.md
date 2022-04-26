@@ -18,8 +18,8 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  About me...
 
-I speak Swift, iOS Framework Developer, Senior iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>, and technology enthusiast.
-I love sharing my knowledge and experience, and sharing PoCs & problems as code.
+**I I speak Swift, iOS Framework Developer, Senior iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>, and technology enthusiast.
+I love sharing my knowledge and experience, and sharing PoCs & problems as code. **
 
 - 🔭 Currently working on digital banking system at <a href="https://atos.net/en/">Atos </a> with the latest technologies [SwiftUI - Combine - Clean Archtecture].
 - I love developing mobile apps, also i am learning android development using kotlin & java.
