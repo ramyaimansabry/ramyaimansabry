@@ -16,13 +16,6 @@
 </div>
 
 
-//
-<h2>EEEEE! 👋</h2>
-<img align='right' src="https://raw.githubusercontent.com/selimdoyranli/selimdoyranli/master/preview.gif" width="230">
-<p>Senior iOS Software Enginner at <a href="https://www.google.com/">E </a><img src="https:/y.gif" width="30"></br>Founder & Mentor at <a href="/">SwiftyCamp</a><img src="httpsy.gif" width="30"> 
-</p>
-//
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  About me...  
 
 - 🔭 I am a Senior iOS Software Enginner at <a href="https://atos.net/en/">Atos </a>
