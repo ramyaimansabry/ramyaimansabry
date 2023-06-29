@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hi+I'm+Ramy+Sabry+👋;An+iOS+Software+Engineer...;)](https://git.io/typing-svg)
 
-### Senior iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>
+### iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>
 
 
 
@@ -31,6 +31,9 @@
 ### Github Stats 🥇
 
 ![ramyaimansabry's Stats](https://github-readme-stats.vercel.app/api?username=ramyaimansabry&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=KevinTopollaj&show_icons=true&hide_border=true&theme=dark)
+
 
 
 ### Programming Language 😍
