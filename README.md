@@ -65,7 +65,7 @@
 
 ### Github Stats 🥇
 
-![Ramy's github stats](https://github-readme-stats.vercel.app/api?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ramyaimansabry's Stats](https://github-readme-stats.vercel.app/api?username=ramyaimansabry&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ### Programming Language 😍
