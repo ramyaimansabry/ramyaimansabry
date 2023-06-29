@@ -35,7 +35,7 @@
 
 ### Technologies & Tools:
 
-[<img align="left" alt="Swift" width="30px" src="Images/Swift-Logo.png" />][swift_website]
+<!-- [<img align="left" alt="Swift" width="30px" src="Images/Swift-Logo.png" />][swift_website]
 [<img align="left" alt="SwiftUI" width="30px" src="Images/SwiftUI-Logo.jpg" />][swiftui_website]
 [<img align="left" alt="RxSwift" width="30px" src="Images/RxSwift-Logo.png" />][rxSwift_website]
 [<img align="left" alt="Kotlin" width="30px" src="Images/Kotlin-Logo.png" />][kotlin_website]
@@ -59,7 +59,7 @@
 [<img align="left" alt="TestFlight" width="30px" src="Images/TestFlight-Logo.png" />][testflight_website]
 
 <br /> 
-<br />
+<br /> -->
 
 <hr/>
 
@@ -70,10 +70,10 @@
 
 ### Programming Language 😍
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyaimansabry&layout=compact&theme=dark&hide_border=true)
+![ramyaimansabry's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyaimansabry&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
-</details>
+<!-- </details>
 
 [linkedin_website]: https://www.linkedin.com/in/ramy-sabry-153770117/
 [facebook_website]: https://www.facebook.com/profile.php?id=100008612291509
@@ -96,4 +96,4 @@
 [appStore_website]: https://www.apple.com/eg/app-store/
 [diawi_website]: https://www.diawi.com/
 [firebaseAppDistribution_website]: https://firebase.google.com/docs/app-distribution
-[testflight_website]: https://developer.apple.com/testflight/
+[testflight_website]: https://developer.apple.com/testflight/ -->
