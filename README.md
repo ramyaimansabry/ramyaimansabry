@@ -7,7 +7,9 @@
 
 
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hi+I'm+Ramy+Sabry+👋;An+iOS+Software+Engineer...;)](https://git.io/typing-svg)
+
 </div>
 
 
