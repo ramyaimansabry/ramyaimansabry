@@ -12,9 +12,8 @@
 
 ### iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>
 
-
-
 </div>
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more About me...
@@ -28,11 +27,10 @@
 - 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
 
 
+
 ### Github Stats 🥇
 
 ![ramyaimansabry's Stats](https://github-readme-stats.vercel.app/api?username=ramyaimansabry&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=KevinTopollaj&show_icons=true&hide_border=true&theme=dark)
 
 
 
