@@ -1,4 +1,11 @@
 
+<p align="center">
+  <img src="Images/cover-thompson.png" height="200"/>
+</p>
+<hr>
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hi+I'm+Ramy+Sabry+👋;An+iOS+Software+Engineer...;)](https://git.io/typing-svg)
 
 ### Senior iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>
@@ -11,7 +18,7 @@
 - 💬 **Ask me about**: OOP, Swift, iOS, Cocoapods, Frameworks, RESTful APIs, Architecture, Design Patterns, Testing, and CI/CD.
 - 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
 
-
+<br />
 
 ### Github Stats 🥇
 
