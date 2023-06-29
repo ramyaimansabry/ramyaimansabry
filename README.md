@@ -63,9 +63,14 @@
 
 <hr/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em> I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
+### Github Stats 🥇
 
-⭐️ Thank you ⭐️
+![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=ramyaimansabry&show_icons=true&hide_border=true&theme=dark)
+
+
+### Programming Language 😍
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTopollaj&layout=compact&theme=dark&hide_border=true)
 
 
 </details>
