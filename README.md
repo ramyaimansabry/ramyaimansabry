@@ -18,7 +18,7 @@
 
 **I speak Swift, and technology enthusiast. I Love developing mobile apps, especially the iOS**
 
-- I have 4.5 years of experience, In [FinTech - Food & privilege - E-Commerce] industries.
+- I have 4.5 years of experience, In (FinTech - Food & Privilege - E-Commerce) industries.
 - 🔭 I am Currently working on digital banking system at <a href="https://atos.net/en/">Atos </a> with the latest technologies.
 - ⭐️ I’m currently working on creating iOS Apps.
 - 💼 I’m looking to collaborate on open source projects that are using SwiftUI and Blockchain technology.
