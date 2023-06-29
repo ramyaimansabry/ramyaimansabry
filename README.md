@@ -7,7 +7,7 @@
 - 💼 I’m looking to collaborate on open source projects that are using SwiftUI and Blockchain technology.
 - 💬 Ask me about: Architecture design, Design Patterns, Reusable Components, Unit/UI Testing, CI/CD.
 - 📫 How to contact with me: ramysabry1996@gmail.com
-- 🔗 My Linkedin Profile: [Linkedin](www.linkedin.com/in/ramy-sabry-153770117)
+- 🔗 My Linkedin Profile: [Linkedin](https://www.linkedin.com/in/ramy-sabry-153770117)
 
 
 
