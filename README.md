@@ -1,8 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hi+I'm+Ramy+Sabry+👋;An+iOS+Software+Engineer...;)](https://git.io/typing-svg)
-
-### iOS Software Engineer at <a href="https://atos.net/en/">Atos </a>
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hi+I'm+Ramy+Sabry+👋;An+iOS+Software+Engineer...;)](https://git.io/typing-svg)
 
 - I have 4.5 years of experience, In (FinTech - Food & Privilege - E-Commerce) industries.
 - 🔭 I am Currently working on digital banking system at <a href="https://atos.net/en/">Atos </a> with the latest technologies.
