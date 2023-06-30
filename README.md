@@ -20,7 +20,7 @@
 
 Combine Book | Design Patterns By Tutorials Book | Clean Coder Book
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="./Images/combine.png" width="250" height="340"> |  <img src="./Images/design-patterns-by-tutorials.jpg" width="250" height="340"> |  <img src="./Images/clean-coder.png" width="250" height="340">
+<img src="./Images/combine.png" width="250" height="340"> |  <img src="./Images/design-patterns-by-tutorials.jpg" width="250" height="340"> |  <img src="./Images/clean-coder.jpg" width="250" height="340">
 
 Clean Architecture | Clean Code Book | Pro Git Book
 :-------------------------:|:-------------------------:|:-------------------------:
