@@ -18,17 +18,17 @@
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="./Images/advanced-ios-app-architecture.png" width="250" height="340"> |  <img src="./Images/principles-of-package-design.jpg" width="250" height="340"> |  <img src="./Images/concurrency-by-tutorials.png" width="250" height="340">
 
-Combine Book | Design Patterns By Tutorials Book | Clean Coder Book
+Combine Book | Design Patterns By Tutorials Book | Expert Swift Book
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="./Images/combine.png" width="250" height="340"> |  <img src="./Images/design-patterns-by-tutorials.jpg" width="250" height="340"> |  <img src="./Images/clean-coder.jpg" width="250" height="340">
+<img src="./Images/combine.png" width="250" height="340"> |  <img src="./Images/design-patterns-by-tutorials.jpg" width="250" height="340"> |  <img src="./Images/expert-swift.png" width="250" height="340">
 
-Clean Architecture | Clean Code Book | Pro Git Book
+Clean Architecture | Clean Code Book | The clean Coder
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="./Images/clean-architecture.jpg" width="250" height="340"> |  <img src="./Images/clean-code.jpeg" width="250" height="340"> |  <img src="./Images/pro-git.png" width="250" height="340">
+<img src="./Images/clean-architecture.jpg" width="250" height="340"> |  <img src="./Images/clean-code.jpeg" width="250" height="340"> |  <img src="./Images/clean-coder.jpg" width="250" height="340">
 
-Expert Swift |
+Pro Git Swift |
 :-------------------------:|
-<img src="./Images/expert-swift.png" width="250" height="340"> |
+<img src="./Images/pro-git.png" width="250" height="340"> |
 
 
 
