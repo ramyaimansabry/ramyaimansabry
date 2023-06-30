@@ -16,7 +16,7 @@
 
  Advanced iOS App Architecture Book | Principles Of Package Design Book | Concurrency By Tutorials Book
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="./images/advanced-ios-app-architecture.png" width="250" height="340"> |  <img src="./images/principles-of-package-design.png" width="250" height="340"> |  <img src="./images/concurrency-by-tutorials.png" width="250" height="340">
+<img src="./images/advanced-ios-app-architecture.png" width="250" height="340"> |  <img src="./images/principles-of-package-design.jpg" width="250" height="340"> |  <img src="./images/concurrency-by-tutorials.png" width="250" height="340">
 
 Combine Book | Design Patterns By Tutorials Book | Clean Coder Book
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -24,7 +24,7 @@ Combine Book | Design Patterns By Tutorials Book | Clean Coder Book
 
 Clean Architecture | Clean Code Book | Pro Git Book
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="./images/clean-architecture.png" width="250" height="340"> |  <img src="./images/clean-code.jpg" width="250" height="340"> |  <img src="./images/pro-git.jpg" width="250" height="340">
+<img src="./images/clean-architecture.jpg" width="250" height="340"> |  <img src="./images/clean-code.jpeg" width="250" height="340"> |  <img src="./images/pro-git.jpg" width="250" height="340">
 
 Expert Swift |
 :-------------------------:|
