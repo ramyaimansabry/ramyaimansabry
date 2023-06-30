@@ -24,7 +24,7 @@ Combine Book | Design Patterns By Tutorials Book | Clean Coder Book
 
 Clean Architecture | Clean Code Book | Pro Git Book
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="./Images/clean-architecture.jpg" width="250" height="340"> |  <img src="./Images/clean-code.jpeg" width="250" height="340"> |  <img src="./Images/pro-git.jpg" width="250" height="340">
+<img src="./Images/clean-architecture.jpg" width="250" height="340"> |  <img src="./Images/clean-code.jpeg" width="250" height="340"> |  <img src="./Images/pro-git.png" width="250" height="340">
 
 Expert Swift |
 :-------------------------:|
